@@ -1,0 +1,99 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,62,"CZE","Czech Republic",1,"Ústecký",1,"Ústí nad Labem","Okres","District",NA,NA
+2,62,"CZE","Czech Republic",1,"Ústecký",2,"Chomutov","Okres","District",NA,NA
+3,62,"CZE","Czech Republic",1,"Ústecký",3,"Decín","Okres","District",NA,NA
+4,62,"CZE","Czech Republic",1,"Ústecký",4,"Litomerice","Okres","District",NA,NA
+5,62,"CZE","Czech Republic",1,"Ústecký",5,"Louny","Okres","District",NA,NA
+6,62,"CZE","Czech Republic",1,"Ústecký",6,"Most","Okres","District",NA,NA
+7,62,"CZE","Czech Republic",1,"Ústecký",7,"Teplice","Okres","District",NA,NA
+8,62,"CZE","Czech Republic",2,"Jihoceský",8,"Ceské Budejovice","Okres","District",NA,NA
+9,62,"CZE","Czech Republic",2,"Jihoceský",9,"Ceský Krumlov","Okres","District",NA,NA
+10,62,"CZE","Czech Republic",2,"Jihoceský",10,"Jindrichuv Hradec","Okres","District",NA,NA
+11,62,"CZE","Czech Republic",2,"Jihoceský",11,"Písek","Okres","District",NA,NA
+12,62,"CZE","Czech Republic",2,"Jihoceský",12,"Prachatice","Okres","District",NA,NA
+13,62,"CZE","Czech Republic",2,"Jihoceský",13,"Strakonice","Okres","District",NA,NA
+14,62,"CZE","Czech Republic",2,"Jihoceský",14,"Tábor","Okres","District",NA,NA
+15,62,"CZE","Czech Republic",3,"Jihomoravský",15,"Breclav","Okres","District",NA,NA
+16,62,"CZE","Czech Republic",3,"Jihomoravský",16,"Blansko","Okres","District",NA,NA
+17,62,"CZE","Czech Republic",3,"Jihomoravský",17,"Brno-Venkov","Okres","District",NA,NA
+18,62,"CZE","Czech Republic",3,"Jihomoravský",18,"Brno","Statutární mesto","Statutory city",NA,NA
+19,62,"CZE","Czech Republic",3,"Jihomoravský",19,"Hodonín","Okres","District",NA,NA
+20,62,"CZE","Czech Republic",3,"Jihomoravský",20,"Vyškov","Okres","District",NA,NA
+21,62,"CZE","Czech Republic",3,"Jihomoravský",21,"Znojmo","Okres","District",NA,NA
+22,62,"CZE","Czech Republic",4,"Karlovarský",22,"Cheb","Okres","District",NA,NA
+23,62,"CZE","Czech Republic",4,"Karlovarský",23,"Karlovy Vary","Okres","District",NA,NA
+24,62,"CZE","Czech Republic",4,"Karlovarský",24,"Sokolov","Okres","District",NA,NA
+25,62,"CZE","Czech Republic",5,"Královéhradecký",25,"Hradec Králové","Okres","District",NA,NA
+26,62,"CZE","Czech Republic",5,"Královéhradecký",26,"Jicín","Okres","District",NA,NA
+27,62,"CZE","Czech Republic",5,"Královéhradecký",27,"Náchod","Okres","District",NA,NA
+28,62,"CZE","Czech Republic",5,"Královéhradecký",28,"Rychnov nad Knežnou","Okres","District",NA,NA
+29,62,"CZE","Czech Republic",5,"Královéhradecký",29,"Trutnov","Okres","District",NA,NA
+30,62,"CZE","Czech Republic",6,"Kraj Vysocina",30,"Ždár nad Sázavou","Okres","District",NA,NA
+31,62,"CZE","Czech Republic",6,"Kraj Vysocina",31,"Havlíckuv Brod","Okres","District",NA,NA
+32,62,"CZE","Czech Republic",6,"Kraj Vysocina",32,"Jihlava","Okres","District",NA,NA
+33,62,"CZE","Czech Republic",6,"Kraj Vysocina",33,"Pelhrimov","Okres","District",NA,NA
+34,62,"CZE","Czech Republic",6,"Kraj Vysocina",34,"Trebíc","Okres","District",NA,NA
+35,62,"CZE","Czech Republic",7,"Liberecký",35,"Ceská Lípa","Okres","District",NA,NA
+36,62,"CZE","Czech Republic",7,"Liberecký",36,"Jablonec nad Nisou","Okres","District",NA,NA
+37,62,"CZE","Czech Republic",7,"Liberecký",37,"Liberec","Okres","District",NA,NA
+38,62,"CZE","Czech Republic",7,"Liberecký",38,"Semily","Okres","District",NA,NA
+39,62,"CZE","Czech Republic",8,"Moravskoslezský",39,"Bruntál","Okres","District",NA,NA
+40,62,"CZE","Czech Republic",8,"Moravskoslezský",40,"Frýdek-Místek","Okres","District",NA,NA
+41,62,"CZE","Czech Republic",8,"Moravskoslezský",41,"Karviná","Okres","District",NA,NA
+42,62,"CZE","Czech Republic",8,"Moravskoslezský",42,"Nový Jicín","Okres","District",NA,NA
+43,62,"CZE","Czech Republic",8,"Moravskoslezský",43,"Opava","Okres","District",NA,NA
+44,62,"CZE","Czech Republic",8,"Moravskoslezský",44,"Ostrava","Statutární mesto","Statutory city",NA,NA
+45,62,"CZE","Czech Republic",9,"Olomoucký",45,"Šumperk","Okres","District",NA,NA
+46,62,"CZE","Czech Republic",9,"Olomoucký",46,"Jeseník","Okres","District",NA,NA
+47,62,"CZE","Czech Republic",9,"Olomoucký",47,"Olomouc","Okres","District",NA,NA
+48,62,"CZE","Czech Republic",9,"Olomoucký",48,"Prerov","Okres","District",NA,NA
+49,62,"CZE","Czech Republic",9,"Olomoucký",49,"Prostejov","Okres","District",NA,NA
+50,62,"CZE","Czech Republic",10,"Pardubický",50,"Ústí nad Orlicí","Okres","District",NA,NA
+51,62,"CZE","Czech Republic",10,"Pardubický",51,"Chrudim","Okres","District",NA,NA
+52,62,"CZE","Czech Republic",10,"Pardubický",52,"Pardubice","Okres","District",NA,NA
+53,62,"CZE","Czech Republic",10,"Pardubický",53,"Svitavy","Okres","District",NA,NA
+54,62,"CZE","Czech Republic",11,"Plzenský",54,"Domažlice","Okres","District",NA,NA
+55,62,"CZE","Czech Republic",11,"Plzenský",55,"Klatovy","Okres","District",NA,NA
+56,62,"CZE","Czech Republic",11,"Plzenský",56,"Plzen - jih","Okres","District",NA,"South"
+57,62,"CZE","Czech Republic",11,"Plzenský",57,"Plzen - sever","Okres","District",NA,"North"
+58,62,"CZE","Czech Republic",11,"Plzenský",58,"Plzen","Statutární mesto","Statutory city",NA,NA
+59,62,"CZE","Czech Republic",11,"Plzenský",59,"Rokycany","Okres","District",NA,NA
+60,62,"CZE","Czech Republic",11,"Plzenský",60,"Tachov","Okres","District",NA,NA
+61,62,"CZE","Czech Republic",12,"Prague",61,"Praha 10","Okres","District",NA,NA
+62,62,"CZE","Czech Republic",12,"Prague",62,"Praha 11","Okres","District",NA,NA
+63,62,"CZE","Czech Republic",12,"Prague",63,"Praha 12","Okres","District",NA,NA
+64,62,"CZE","Czech Republic",12,"Prague",64,"Praha 13","Okres","District",NA,NA
+65,62,"CZE","Czech Republic",12,"Prague",65,"Praha 14","Okres","District",NA,NA
+66,62,"CZE","Czech Republic",12,"Prague",66,"Praha 15","Okres","District",NA,NA
+67,62,"CZE","Czech Republic",12,"Prague",67,"Praha 16","Okres","District",NA,NA
+68,62,"CZE","Czech Republic",12,"Prague",68,"Praha 17","Okres","District",NA,NA
+69,62,"CZE","Czech Republic",12,"Prague",69,"Praha 18","Okres","District",NA,NA
+70,62,"CZE","Czech Republic",12,"Prague",70,"Praha 19","Okres","District",NA,NA
+71,62,"CZE","Czech Republic",12,"Prague",71,"Praha 1","Okres","District",NA,NA
+72,62,"CZE","Czech Republic",12,"Prague",72,"Praha 20","Okres","District",NA,NA
+73,62,"CZE","Czech Republic",12,"Prague",73,"Praha 21","Okres","District",NA,NA
+74,62,"CZE","Czech Republic",12,"Prague",74,"Praha 22","Okres","District",NA,NA
+75,62,"CZE","Czech Republic",12,"Prague",75,"Praha 2","Okres","District",NA,NA
+76,62,"CZE","Czech Republic",12,"Prague",76,"Praha 3","Okres","District",NA,NA
+77,62,"CZE","Czech Republic",12,"Prague",77,"Praha 4","Okres","District",NA,NA
+78,62,"CZE","Czech Republic",12,"Prague",78,"Praha 5","Okres","District",NA,NA
+79,62,"CZE","Czech Republic",12,"Prague",79,"Praha 6","Okres","District",NA,NA
+80,62,"CZE","Czech Republic",12,"Prague",80,"Praha 7","Okres","District",NA,NA
+81,62,"CZE","Czech Republic",12,"Prague",81,"Praha 8","Okres","District",NA,NA
+82,62,"CZE","Czech Republic",12,"Prague",82,"Praha 9","Okres","District",NA,NA
+83,62,"CZE","Czech Republic",13,"Stredoceský",83,"Benešov","Okres","District",NA,NA
+84,62,"CZE","Czech Republic",13,"Stredoceský",84,"Beroun","Okres","District",NA,NA
+85,62,"CZE","Czech Republic",13,"Stredoceský",85,"Kladno","Okres","District",NA,NA
+86,62,"CZE","Czech Republic",13,"Stredoceský",86,"Kolín","Okres","District",NA,NA
+87,62,"CZE","Czech Republic",13,"Stredoceský",87,"Kutná Hora","Okres","District",NA,NA
+88,62,"CZE","Czech Republic",13,"Stredoceský",88,"Melník","Okres","District",NA,NA
+89,62,"CZE","Czech Republic",13,"Stredoceský",89,"Mladá Boleslav","Okres","District",NA,NA
+90,62,"CZE","Czech Republic",13,"Stredoceský",90,"Nymburk","Okres","District",NA,NA
+91,62,"CZE","Czech Republic",13,"Stredoceský",91,"Príbram","Okres","District",NA,NA
+92,62,"CZE","Czech Republic",13,"Stredoceský",92,"Praha - východ","Okres","District",NA,"East"
+93,62,"CZE","Czech Republic",13,"Stredoceský",93,"Praha - západ","Okres","District",NA,"West"
+94,62,"CZE","Czech Republic",13,"Stredoceský",94,"Rakovník","Okres","District",NA,NA
+95,62,"CZE","Czech Republic",14,"Zlínský",95,"Kromeríž","Okres","District",NA,NA
+96,62,"CZE","Czech Republic",14,"Zlínský",96,"Uherské Hradište","Okres","District",NA,NA
+97,62,"CZE","Czech Republic",14,"Zlínský",97,"Vsetín","Okres","District",NA,NA
+98,62,"CZE","Czech Republic",14,"Zlínský",98,"Zlín","Okres","District",NA,NA
